@@ -2,7 +2,7 @@ meta:
   title: Redocly Training
   description: The best API documentation generator ever.
   siteUrl: https://portal-demo.redoc.ly
-headerIcon: ./images/logo.png
+headerIcon: https://files.readme.io/acd879b-small-flexport-api_1.png
 enableToc: true
 oasDefinitions:
   petstore: ./openapi/petstore.yaml
@@ -18,7 +18,7 @@ stylesheets:
 #  - ./static/intercom.js
 nav:
 
-  - label: Training exercises
+  - label: Flexport Training exercises
     page: developer-portal/index.md
 
   - label: External docs
@@ -28,7 +28,7 @@ nav:
   - search: true
 
 footer:
-  copyrightText: Copyright © Redocly 2019-2020. All right reserved.
+  copyrightText: Copyright © Flexport 2021. All right reserved.
   columns:
     - group: Legal
       items:
